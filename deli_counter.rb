@@ -1,8 +1,9 @@
 require "pry"
 
 def line(katz_deli)
-  if condition
-  else
+  if katz_deli.length == 0
     puts "The line is currently empty."
+  else
+
   end
 end
